@@ -8,6 +8,7 @@ fastapi = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
